@@ -1,0 +1,50 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=pcb_v2_nodemcu
+*Date=16:08:47
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;300 mil [THT];31.899;-53.9295;90;Bottom;D2
+2;;THT;5.86396;-22.8399;180;Bottom;Push1
+3;150;1206 [SMD];36.6988;-46.9699;180;Bottom;R14
+4;;THT;6.31886;-46.9697;0;Bottom;J16
+5;;;14.119;-27.9197;0;Bottom;Via6
+6;220;1206 [SMD];41.7788;-57.7649;180;Bottom;R13
+7;;THT;5.86396;-10.1399;-90;Bottom;J18
+8;;;20.4691;-29.1897;0;Bottom;Via2
+9;;THT;23.009;-33.6349;90;Bottom;Additional Power
+10;;;23.0091;-14.5847;0;Bottom;Via8
+11;220;1206 [SMD];27.734;-10.1399;0;Bottom;R16
+12;;THT;52.219;-22.8399;0;Bottom;RC523
+13;;TO92 [THT];45.7801;-55.4154;90;Bottom;C828
+14;;THT;8.40396;-32.9999;180;Bottom;Power
+15;;;3.15482;-56.7145;0;Bottom;Hole2
+16;;;14.119;-36.1749;0;Bottom;Via5
+17;adjustable;sot223;47.2239;-8.00623;-90;Bottom;U6
+18;;;57.1808;-56.7313;0;Bottom;Hole1
+19;;;52.2191;-34.2699;0;Bottom;Via7
+20;;THT;5.86396;-16.4899;90;Bottom;Limit1
+21;;;12.214;-49.5099;0;Bottom;Via11
+22;;;57.1195;-2.63156;0;Bottom;Hole4
+23;;;11.579;-16.4897;0;Bottom;Via10
+24;;THT;6.31886;-32.9808;0;Bottom;J17
+25;;THT;36.2585;-53.9549;-90;Bottom;U5
+26;10k;1206 [SMD];15.109;-25.3799;180;Bottom;R15
+27;;;30.1691;-29.6544;0;Bottom;IMG1
+28;;;12.214;-31.7299;0;Bottom;Via12
+29;;;53.4891;-36.1749;0;Bottom;Via9
+30;;;20.4691;-5.69474;0;Bottom;Via1
+31;;;3.24313;-2.60165;0;Bottom;Hole3
+32;;;43.9353;-24.7814;0;Bottom;U1
+33;12V;THT;21.389;-48.5749;90;Bottom;OMRON2
+34;100µF;100 mil [THT, electrolytic];14.754;-10.7749;-90;Bottom;C830
+35;;5 mm [THT];23.0088;-11.3937;180;Bottom;LED1

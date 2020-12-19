@@ -7,3 +7,11 @@
 
 # ignore OS X desktops
 .DS_Store
+
+# PCB related files
+
+pdf
+gcode
+diptrace
+*.dip
+*.flatcam
